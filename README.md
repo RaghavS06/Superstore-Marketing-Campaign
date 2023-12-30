@@ -8,3 +8,6 @@ Objective - The superstore wants to predict the likelihood of the customer givin
 to identify the different factors which affect the customer's response. You need to analyze the data provided 
 to identify these factors and then build a prediction model to predict the probability of a customer will give
 a positive response.
+
+
+Final Accuracy - 94%
